@@ -8,66 +8,64 @@ Welcome to the step-by-step installation tutorial for setting up the FANMOD on t
 ## Step-by-Step Instructions
 
 ### Step 1: Preparation  
-![Step 1](https://via.placeholder.com/600x300.png?text=Step+1+Image)  
-Begin by powering down your PC and removing the graphics card from the case. Make sure you’re working on a static-free surface.
+![Step 1](tutorials/rtx2080/step1.png)  
+Power down your PC and carefully remove the graphics card. Work on a static-free surface.
 
 ---
 
 ### Step 2: Remove Existing Shroud  
-![Step 2](https://via.placeholder.com/600x300.png?text=Step+2+Image)  
-Carefully unscrew and detach the stock cooler or shroud from the GPU without damaging the PCB.
+![Step 2](tutorials/rtx2080/step2.png)  
+Unscrew and detach the stock cooler or shroud from the GPU without damaging components.
 
 ---
 
 ### Step 3: Clean the Surface  
-![Step 3](https://via.placeholder.com/600x300.png?text=Step+3+Image)  
-Wipe down the GPU surface with isopropyl alcohol to remove thermal paste and dust.
+![Step 3](tutorials/rtx2080/step3.png)  
+Use isopropyl alcohol to clean off thermal paste and any debris.
 
 ---
 
 ### Step 4: Align FANMOD Brackets  
-![Step 4](https://via.placeholder.com/600x300.png?text=Step+4+Image)  
-Place the FANMOD universal mounting brackets on the GPU’s existing mounting points and ensure proper alignment.
+![Step 4](tutorials/rtx2080/step4.png)  
+Align FANMOD mounting brackets with the existing screw holes on your GPU.
 
 ---
 
 ### Step 5: Attach Cooling Fans  
-![Step 5](https://via.placeholder.com/600x300.png?text=Step+5+Image)  
-Secure the 120MM cooling fans to the brackets. Ensure cables are facing outward for clean cable management.
+![Step 5](tutorials/rtx2080/step5.png)  
+Secure the 120MM fans to the bracket, ensuring correct orientation and airflow direction.
 
 ---
 
 ### Step 6: Connect RGB Header  
-![Step 6](https://via.placeholder.com/600x300.png?text=Step+6+Image)  
-Plug the FANMOD RGB connector into your motherboard or RGB controller.
+![Step 6](tutorials/rtx2080/step6.png)  
+Connect the RGB cable to your motherboard’s RGB header or controller.
 
 ---
 
-### Step 7: Apply Thermal Pads/Paste  
-![Step 7](https://via.placeholder.com/600x300.png?text=Step+7+Image)  
-Apply new thermal paste to the GPU chip and thermal pads to memory modules or VRMs if required.
+### Step 7: Apply Thermal Paste  
+![Step 7](tutorials/rtx2080/step7.png)  
+Apply new thermal paste to the GPU die and place thermal pads on VRMs if needed.
 
 ---
 
 ### Step 8: Reinstall the GPU  
-![Step 8](https://via.placeholder.com/600x300.png?text=Step+8+Image)  
-Place the GPU back into your PC’s PCIe slot and reconnect power cables securely.
+![Step 8](tutorials/rtx2080/step8.png)  
+Insert the GPU back into the PCIe slot and reconnect power cables.
 
 ---
 
 ### Step 9: Attach Magnetic Skins  
-![Step 9](https://via.placeholder.com/600x300.png?text=Step+9+Image)  
-Snap on your desired magnetic decal skin to customize the look of your graphics card.
+![Step 9](tutorials/rtx2080/step9.png)  
+Choose and attach a magnetic decal skin to customize the appearance.
 
 ---
 
 ### Step 10: Power On & Test  
-![Step 10](https://via.placeholder.com/600x300.png?text=Step+10+Image)  
-Power on your PC, verify fan and RGB functionality, and monitor GPU temps to confirm proper installation.
+![Step 10](tutorials/rtx2080/step10.png)  
+Boot your PC and confirm that the fans and RGB are working. Monitor temps to ensure proper installation.
 
 ---
 
 ## ✅ Installation Complete  
-You’ve successfully installed FANMOD on your RTX 2080 ASUS OC Edition! Enjoy improved cooling, custom looks, and RGB flair.
-
----
+You’ve successfully installed FANMOD on your RTX 2080 ASUS OC Edition! Enjoy enhanced cooling and custom styling.
