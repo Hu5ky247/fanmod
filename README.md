@@ -12,28 +12,3 @@
   Use the <em>"Go to file"</em> search bar (located near the "Add file" button) to search for your specific GPU model.
 </p>
 
-
-# FANMOD Installation Guide  
-### RTX 2080 ASUS OC Edition
-
-Welcome to the step-by-step installation tutorial for setting up the FANMOD on the ASUS RTX 2080 OC Edition graphics card. This guide will walk you through each stage of the process with images and brief descriptions to ensure a smooth installation.
-
----
-
-## Step-by-Step Instructions
-
-### Step 1: Preparation  
-![Step 1](tutorials/rtx2080/step1.png)  
-Power down your PC and carefully remove the graphics card. Work on a static-free surface.
-
----
-
-### Step 2: Remove Existing Shroud  
-![Step 2](tutorials/rtx2080/step2.png)  
-Unscrew and detach the stock cooler or shroud from the GPU without damaging components.
-
----
-
-### Step 3: Clean the Surface  
-![Step 3](tutorials/rtx2080/step3.png)  
-Use isopropyl alcohol to clean off thermal paste and any debris.
